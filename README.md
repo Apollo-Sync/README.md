@@ -1,12 +1,9 @@
-# README.md
-# MrHuyTuan
+# ValidatorVN
 
-👋 Hello there! I'm MrHuyTuan, a freelancer.
+Please note that below is the official list of information about ApolloSYNC:
 
-- **Occupation**: Freelancer
-- **Age**: Young adult
-- **Github: https://github.com/heedeptrai
-- **Telegram me: https://t.me/hygaqb
-- **Discord: @tuanhuy73
-- **Computer configuration: I will configure each project computer separately..
-- **Very pleased to cooperate with you
+- Website: [https://apollosync.wordpress.com/](https://apollosync.wordpress.com/)
+- Telegram: [https://t.me/Apollosync](https://t.me/Apollosync)
+- Github: [https://github.com/Apollo-Sync](https://github.com/Apollo-Sync)
+- X: [https://twitter.com/Apollo_sync](https://twitter.com/Apollo_sync)
+
