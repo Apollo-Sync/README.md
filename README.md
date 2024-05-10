@@ -1,4 +1,4 @@
-# ValidatorVN
+# ApolloSYNC validator
 
 Please note that below is the official list of information about ApolloSYNC:
 
